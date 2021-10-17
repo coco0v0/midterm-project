@@ -1,1 +1,1 @@
-# midterm-project
+This is the classic gold miner game. First, click the green arrow to play the game. Once the game start, you will try to get all the gold or stone. The hook will continously point in a different direction.Once the game start, the player has 60seconds to grab the gold.Once the player right click, the hook will extend and try to grab the gold. Once the player’s point is higher or equal to the target point, then the player can get to the next level and continue to play, otherwise, the game will end.
